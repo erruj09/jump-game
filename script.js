@@ -12,7 +12,7 @@ function jump(){
 var chechDead = setInterval(function(){
     var characterTop = parseInt(window.getComputedStyle(character).getPropertyValue("top"));
     var blockLeft = parseInt(window.getComputedStyle(block).getPropertyValue("left"));
-    if(blockLeft<20 && blockLeft>0 && charactertop>=130){
+    if(blockLeft<20 && blockLeft>0 && characterTop>=130){
         block.style.animation = "none"
         block.style.display = "none"
         Alert("u lose");
