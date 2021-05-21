@@ -55,4 +55,7 @@ img.circular--square {
     border-bottom-right-radius: 50% 50%;
     border-bottom-left-radius: 50% 50%;
     width: 75px;
+    position:fixed;
+    bottom:0px;
+    left:50%;
 }
