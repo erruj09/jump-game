@@ -48,3 +48,11 @@ h1 {
     color: red;
     font-weight: 200;
 }
+
+img.circular {
+    border-top-left-radius: 50% 50%;
+    border-top-right-radius: 50% 50%;
+    border-bottom-right-radius: 50% 50%;
+    border-bottom-left-radius: 50% 50%;
+    width: 75px;
+}
