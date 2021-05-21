@@ -42,3 +42,9 @@ body {
     0%{left:480px;}
     100%{left:-40px;}
 }
+
+h1 {
+    text-align: center;
+    color: red;
+    font-weight: bold;
+}
