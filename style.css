@@ -6,6 +6,7 @@
     width: 500px;
     height: 200px;
     border: 1px solid black; 
+    position: align-center;
 }
 #character{
     width: 20px;
