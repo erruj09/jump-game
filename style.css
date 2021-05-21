@@ -59,3 +59,10 @@ img.circular--square {
     bottom:0px;
     left:50%;
 }
+
+p.made-by {
+    color:lightgreen;
+    position:fixed;
+    bottom:0px;
+    left:50%;
+}
